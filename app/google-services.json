@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "90852890278",
+    "project_id": "otp-auth-c0f86",
+    "storage_bucket": "otp-auth-c0f86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90852890278:android:a74be1a18453e821ef0667",
+        "android_client_info": {
+          "package_name": "com.micoder.otp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90852890278-ibmrfs01ge5di6ad40mv65n3fpem66q9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXop38S2Ie4Y3bm9BvrtApldljKah82c0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90852890278-ibmrfs01ge5di6ad40mv65n3fpem66q9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
