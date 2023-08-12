@@ -14,6 +14,22 @@
       },
       "oauth_client": [
         {
+          "client_id": "90852890278-39g868rvg8ersc0amp6cgb3h6paf4hl3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.micoder.otp",
+            "certificate_hash": "3a7b6a6baa7b091a31d7d37bb6a084aeaab9ac4b"
+          }
+        },
+        {
+          "client_id": "90852890278-9eobblfbigjupcaoqma4r85c5f4rnpsk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.micoder.otp",
+            "certificate_hash": "b0f4f3710c698fe05227689ddf41499f949777d0"
+          }
+        },
+        {
           "client_id": "90852890278-ibmrfs01ge5di6ad40mv65n3fpem66q9.apps.googleusercontent.com",
           "client_type": 3
         }
